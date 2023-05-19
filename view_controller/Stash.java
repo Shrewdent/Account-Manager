@@ -71,11 +71,11 @@ public class Stash extends Application implements Serializable {
 
 	public void sendEmail() {
 		// Sender's email address and password
-		String senderEmail = "shaunwy1023@yahoo.com";
-		String senderPassword = "ljqlqtdcinxuwcaz";
+		String senderEmail = "Your Email";
+		String senderPassword = "Your Password";
 
 		// Recipient's email address
-		String recipientEmail = "skwyllie@arizona.edu";
+		String recipientEmail = "Email You Want To Send To";
 
 		// Email properties and authentication
 		Properties props = new Properties();
