@@ -7,4 +7,4 @@ Options to add, edit, delete existing information
 
 Press generate to automatically generate new password for account selected
 
-Press copy to automatically copy password to your keyboard
+Press copy to automatically copy password to your clipboard
